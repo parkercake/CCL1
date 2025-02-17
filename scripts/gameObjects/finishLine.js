@@ -1,4 +1,4 @@
-import { BlockObject } from './blockObject.js';
+import { BlockObject } from './block.js';
 import { global } from '../modules/global.js';
 
 class FinishLine extends BlockObject {
